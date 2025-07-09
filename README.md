@@ -1,2 +1,2 @@
-# Requirement.txt
-Streamlit matplotlib numpy
+# requirements.txt
+streamlit matplotlib numpy
